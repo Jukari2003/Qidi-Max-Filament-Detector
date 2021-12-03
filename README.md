@@ -7,4 +7,4 @@ Filament Detector for Qidi Max printer
 !(image)[https://static01.bbi.io/wQEtz02.gif]
 
 
-![Imgur Image](https://imgur.com/gallery/wQEtz02.gif)
+![Imgur Image](https://imgur.com/gallery/wQEtz02)
