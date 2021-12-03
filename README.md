@@ -1,6 +1,4 @@
 # Qidi-Max-Filament-Detector
 Filament Detector for Qidi Max printer
 
-Check out the Imgur Preview:
-
-  https://imgur.com/a/wQEtz02#8kZg7pa
+![alt text](https://github.com/Jukari2003/Qidi-Max-Filament-Detector/blob/master/Qidimax%20Filament%20Detector%20Preview.gif?raw=true)
